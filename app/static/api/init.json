@@ -1,0 +1,98 @@
+{
+  "homeInfo": {
+    "title": "首页",
+    "href": "static/page/weibo_public.html?t=1"
+  },
+  "logoInfo": {
+    "title": "教育热点分析",
+    "image": "static/images/logo.png",
+    "href": ""
+  },
+  "menuInfo": [
+    {
+      "title": "舆情分析",
+      "icon": "fa fa-address-book",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "首页",
+          "href": "static/page/weibo_public.html",
+          "icon": "fa fa-tachometer",
+          "target": "_self"
+        },
+        {
+          "title": "热点话题",
+
+
+          "href": "static/page/hot_topic.html",
+
+
+          "icon": "fa fa-tachometer",
+          "target": "_self"
+        },
+        {
+          "title": "话题趋势",
+          "href": "static/page/topic_trends.html",
+          "icon": "fa fa-tachometer",
+          "target": "_self"
+        },
+        {
+          "title": "情感分析",
+          "href": "static/page/emotional_analysis.html",
+          "icon": "fa fa-file-text",
+          "target": "_self"
+        },
+        {
+          "title": "热门微博列表",
+          "href": "static/page/weibo.html",
+          "icon": "fa fa-file-text",
+          "target": "_self"
+        },
+        {
+          "title": "热门评论列表",
+          "href": "static/page/comment.html",
+          "icon": "fa fa-file-text",
+          "target": "_self"
+        },
+        {
+          "title": "热点图",
+          "href": "static/heatmap/baidu_heat_map.html",
+          "icon": "fa fa-file-text",
+          "target": "_self"
+        },
+        {
+          "title": "时间序列图",
+          "href": "static/timeseries/weibo_time_series.html",
+          "icon": "fa fa-file-text",
+          "target": "_self"
+        },
+        {
+          "title": "评论关系图",
+          "href": "static/commentgraph/comment_graph_pagerank.html",
+          "icon": "fa fa-file-text",
+          "target": "_self"
+        },
+        {
+          "title": "情感时间序列图",
+          "href": "static/emotion/sentiment_time_series.html",
+          "icon": "fa fa-file-text",
+          "target": "_self"
+        },
+        {
+          "title": "tfidf文本聚类图",
+          "href": "static/cluster/tfidf_tsne_clustering.html",
+          "icon": "fa fa-file-text",
+          "target": "_self"
+        },
+        {
+          "title": "word2vec文本聚类图",
+          "href": "static/cluster/word2vec_tsne_clustering.html",
+          "icon": "fa fa-file-text",
+          "target": "_self"
+        }
+        
+      ]
+    }
+  ]
+}
