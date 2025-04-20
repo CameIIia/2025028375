@@ -1,6 +1,6 @@
 host_ip = "127.0.0.1"  # 你的mysql服务器地址
 host_user = "root"
-password = "123456rsh"  # 你的mysql密码
+password = "050701"  # 你的mysql密码
 db = 'remenweibo'
 port = 3306
 charset= 'utf8mb4'

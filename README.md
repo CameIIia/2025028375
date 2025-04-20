@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# EHTAS
-=======
 # schoolPredict
 
 #### 介绍
@@ -19,3 +16,5 @@
 5.启动main.py运行web网站,默认进入index主页
 6.数据采集模块,此模块是用来采集微博等数据的，定时任务采集，运行python util_code\my_task_schedual.py即可定时采集
 7.情感分析、热词分析等模块，考虑到数据量过大的情况下，分析数据会很慢，所以也是运行python util_code\my_task_schedual.py这个定时任务里进行生成
+
+

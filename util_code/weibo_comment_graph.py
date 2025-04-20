@@ -17,7 +17,7 @@ class WeiboCommentGraph:
             'host': '127.0.0.1',
             'port': 3306,
             'user': 'root',
-            'password': '123456rsh',
+            'password': '050701',
             'db': 'remenweibo',
             'charset': 'utf8mb4'
         }
